@@ -1,2 +1,5 @@
-GET https://03s71bz0xh.execute-api.us-east-2.amazonaws.com/prod/spaces
+GET https://vob939902b.execute-api.us-east-2.amazonaws.com/prod/spaces
+###
+
+POST  https://vob939902b.execute-api.us-east-2.amazonaws.com/prod/spaces
 ###

@@ -1,11 +1,12 @@
 {
   "DataStack": {
-    "ExportsOutputRefSpacesTable8A9973559FB4B87D": "SpaceStack-02dc23b96807"
+    "ExportsOutputRefSpacesTable8A9973559FB4B87D": "SpaceStack-02dc23b96807",
+    "ExportsOutputFnGetAttSpacesTable8A997355Arn242927FE": "arn:aws:dynamodb:us-east-2:526905956116:table/SpaceStack-02dc23b96807"
   },
   "LambdaStack": {
-    "ExportsOutputFnGetAttHelloLambda3D9C82D6ArnAF912CE6": "arn:aws:lambda:us-east-2:526905956116:function:LambdaStack-HelloLambda3D9C82D6-YB4OACir8wzQ"
+    "ExportsOutputFnGetAttSpacesLambdaA5F923A4ArnE59FF2BB": "arn:aws:lambda:us-east-2:526905956116:function:LambdaStack-SpacesLambdaA5F923A4-vN41Dz7MbTdn"
   },
   "ApiStack": {
-    "SpacesApiEndpoint36C4F3B6": "https://03s71bz0xh.execute-api.us-east-2.amazonaws.com/prod/"
+    "SpacesApiEndpoint36C4F3B6": "https://vob939902b.execute-api.us-east-2.amazonaws.com/prod/"
   }
 }
