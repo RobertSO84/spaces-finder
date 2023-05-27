@@ -18,13 +18,14 @@ async function handler(
   try {
     switch (event.httpMethod) {
       case "GET":
-        const getResponse = getSpaces(event, ddbClient );
+        const getResponse = await getSpaces(event, ddbClient );
+        console.log(getResponse)
         return getResponse;
 
         break;
 
       case "POST":
-        const postResponse = postSpaces(event, ddbClient);
+        const postResponse = await postSpaces(event, ddbClient);
 
         return postResponse;
 
