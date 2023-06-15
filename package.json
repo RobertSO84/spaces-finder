@@ -24,6 +24,7 @@
     "@aws-sdk/client-dynamodb": "^3.341.0",
     "@aws-sdk/client-s3": "^3.338.0",
     "@aws-sdk/lib-dynamodb": "^3.341.0",
+    "@aws-sdk/util-dynamodb": "^3.341.0",
     "@types/uuid": "^9.0.1",
     "uuid": "^9.0.0"
   }
